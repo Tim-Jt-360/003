@@ -327,7 +327,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "PASSAGE Wallisellen",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
