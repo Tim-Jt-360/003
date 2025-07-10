@@ -355,7 +355,6 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "PASSAGE Wallisellen",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
